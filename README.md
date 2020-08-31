@@ -28,12 +28,12 @@
   <br />
   <code><img width="10%" src="http://maven.apache.org/images/maven-logo-black-on-white.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png"></code>
+  <code><img width="10%" src="img/css.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 
 </p>
 
