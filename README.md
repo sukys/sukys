@@ -48,15 +48,15 @@
 
 ## Actually
   > Working on: 
-    - Improve personal Skills
+  - Improve personal Skills
 
   > Studying: 
-    - Spring Security
-    - Cryptography
+   - Spring Security
+   - Cryptography
 
   > Playing: 
-    - Shadow of The Colossus
-    - Bloodborne
+   - Shadow of The Colossus
+   - Bloodborne
 
 
 
