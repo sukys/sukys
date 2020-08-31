@@ -47,20 +47,21 @@
 <hr />
 
 ## Actually
-  > Working on: 
+#### Working on: 
   - Improve personal Skills
 
-  > Studying: 
+#### Studying: 
    - Spring Security
    - Cryptography
 
-  > Playing: 
+#### Playing: 
    - Shadow of The Colossus
    - Bloodborne
 
 
 
-
+## To Remember
+ > Always program like a murderer who knows where you live will  review your code.
 
 
 <!--
