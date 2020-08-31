@@ -4,8 +4,9 @@
   Brief DEscripition goes here. Or not?
 </p>
 
+<hr />
 
-<img width="55%" align="right" alt="Github" src="img/git_link.jpeg" />
+<img width="45%" align="right" alt="Github" src="img/git_link.jpeg" />
 
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -34,7 +35,9 @@
   <code><img width="10%" src="img/css.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <br />
-
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 </p>
 
 <!--
