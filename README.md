@@ -46,19 +46,18 @@
 
 <hr />
 
-<p>
 ## Actually
   > Working on: 
     - Improve personal Skills
 
   > Studying: 
     - Spring Security
-    - Criptografy
+    - Cryptography
 
   > Playing: 
     - Shadow of The Colossus
     - Bloodborne
-</p>
+
 
 
 
