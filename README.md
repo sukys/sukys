@@ -1,4 +1,4 @@
-### Luis Sukys
+## Luis Sukys
 
 <p>
   Brief DEscripition goes here. Or not?
@@ -37,7 +37,32 @@
   <code><img width="10%" src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <br/>
+
 </p>
+
+<hr />
+
+<p>
+## Actually
+  > Working on: 
+    - Improve personal Skills
+
+  > Studying: 
+    - Spring Security
+    - Criptografy
+
+  > Playing: 
+    - Shadow of The Colossus
+    - Bloodborne
+</p>
+
+
+
+
 
 <!--
 <hr />
@@ -49,5 +74,12 @@
 [![Sukys's github stats](https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sukys/github-readme-stats)
 -->
 
-[![HitCount](http://hits.dwyl.com/sukys/sukys.svg)](http://hits.dwyl.com/sukys/sukys)
 
+<hr />
+
+<p align="center">
+  <a href="http://hits.dwyl.com/sukys/sukys" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/sukys/sukys.svg" />
+  </a>
+    <img align="center" alt="Visitors Count" src="https://profile-counter.glitch.me/sukys/count.svg" />
+</p>
