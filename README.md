@@ -5,8 +5,6 @@
   Welcome to my Personal Repository.
 </p>
 
-<hr />
-
 <img width="40%" align="right" alt="Github" src="img/git_link.jpeg" />
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
@@ -45,7 +43,6 @@
 
 <br />
 
-<hr />
 
 #### Actually Studying: 
    - Spring Security
@@ -53,14 +50,13 @@
 
 <hr />
 
-
 <p>
-  <a href="https://github.com/sukys/github-readme-stats" target="_blank" style="margin-right: 10px;">
-    <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
+    <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
   </a>
 
-  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
-    <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
+  <a href="https://github.com/sukys/github-readme-stats" target="_blank" >
+    <img align="right" alt="Status" src="https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 
