@@ -7,7 +7,7 @@
   Welcome to my Personal Repository.
 </p>
 
-<img width="30%" align="right" alt="Github" src="img/git_link.jpeg" />
+<img width="40%" align="right" alt="Github" src="img/dragon1.jpeg" />
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 <p>
