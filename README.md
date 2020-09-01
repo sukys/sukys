@@ -41,7 +41,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br/>
-
 </p>
 
 <br />
@@ -56,12 +55,12 @@
 
 
 <p>
-  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
-    <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys" />
-  </a>
-      
-  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
+  <a href="https://github.com/sukys/github-readme-stats" target="_blank" style="margin-right: 10px;">
     <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
+    <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
   </a>
 </p>
 
