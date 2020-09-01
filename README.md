@@ -1,3 +1,5 @@
+<img align="right" alt="Visitors Count" src="https://visitor-badge.glitch.me/badge?page_id=sukys.sukys" />
+
 ## Luis Sukys
 
 <p>
@@ -5,7 +7,7 @@
   Welcome to my Personal Repository.
 </p>
 
-<img width="40%" align="right" alt="Github" src="img/git_link.jpeg" />
+<img width="30%" align="right" alt="Github" src="img/git_link.jpeg" />
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 <p>
@@ -59,9 +61,3 @@
 </p>
 <hr />
 
-<p>
-  <a href="http://hits.dwyl.com/sukys/sukys" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/sukys/sukys.svg" />
-  </a>
-    <img align="center" alt="Visitors Count" src="https://visitor-badge.glitch.me/badge?page_id=sukys.sukys" />
-</p>
