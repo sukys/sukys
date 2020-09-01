@@ -48,8 +48,6 @@
    - Spring Security
    - Cryptography
 
-<hr />
-
 <p>
   <a href="https://github.com/sukys/github-readme-stats" target="_blank">
     <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
@@ -60,17 +58,11 @@
   </a>
 </p>
 
-
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukys)](https://github.com/sukys/github-readme-stats)
-
+<br />
+<br />
 <hr />
-
-[![Sukys's github stats](https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sukys/github-readme-stats)
- -->
-
-
-<hr />
+<br />
+<br />
 
 <p align="center">
   <a href="http://hits.dwyl.com/sukys/sukys" target="_blank">
