@@ -45,6 +45,7 @@
 </p>
 
 <hr />
+<!--
 
 ## Actually
 #### Working on: 
@@ -59,12 +60,6 @@
    - Bloodborne
 
 
-
-## To Remember
- > Always program like a murderer who knows where you live will  review your code.
-
-
-<!--
 <hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukys)](https://github.com/sukys/github-readme-stats)
@@ -72,6 +67,9 @@
 <hr />
 
 [![Sukys's github stats](https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sukys/github-readme-stats)
+
+
+<img align="center" alt="Visitors Count" src="https://profile-counter.glitch.me/sukys/count.svg" />
 -->
 
 
@@ -81,5 +79,5 @@
   <a href="http://hits.dwyl.com/sukys/sukys" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/sukys/sukys.svg" />
   </a>
-    <img align="center" alt="Visitors Count" src="https://profile-counter.glitch.me/sukys/count.svg" />
+    <img align="center" alt="Visitors Count" src="https://visitor-badge.glitch.me/badge?page_id=sukys.sukys" />
 </p>
