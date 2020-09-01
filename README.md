@@ -7,7 +7,7 @@
   Welcome to my Personal Repository.
 </p>
 
-<img width="40%" align="right" alt="Github" src="img/dragon1.jpeg" />
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/sukys/sukys/master/img/dragon1.jpeg" />
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 <p>
@@ -31,7 +31,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="img/css.png"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/sukys/sukys/master/img/css.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png"></code>
