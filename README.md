@@ -1,13 +1,13 @@
 ## Luis Sukys
 
 <p>
-  Brief DEscripition goes here. Or not?
+  Hi There!
+  Welcome to my Personal Repository.
 </p>
 
 <hr />
 
 <img width="45%" align="right" alt="Github" src="img/git_link.jpeg" />
-
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 <p>
@@ -44,34 +44,36 @@
 
 </p>
 
+<br />
+
 <hr />
-<!--
 
-## Actually
-#### Working on: 
-  - Improve personal Skills
-
-#### Studying: 
+#### Actually Studying: 
    - Spring Security
    - Cryptography
 
-#### Playing: 
-   - Shadow of The Colossus
-   - Bloodborne
-
-
 <hr />
 
+
+<p>
+  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
+    <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys" />
+  </a>
+      
+  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
+    <img align="center" alt="Status" src="https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+
+
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukys)](https://github.com/sukys/github-readme-stats)
 
 <hr />
 
 [![Sukys's github stats](https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sukys/github-readme-stats)
-
-
-<img align="center" alt="Visitors Count" src="https://profile-counter.glitch.me/sukys/count.svg" />
--->
-
+ -->
+ 
 
 <hr />
 
