@@ -7,7 +7,7 @@
 
 <hr />
 
-<img width="45%" align="right" alt="Github" src="img/git_link.jpeg" />
+<img width="40%" align="right" alt="Github" src="img/git_link.jpeg" />
 
 <!-- Languages and tools. Check the  alignment.  Logos from: https://www.vectorlogo.zone or https://simpleicons.org/ -->
 <p>
@@ -73,7 +73,7 @@
 
 [![Sukys's github stats](https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/sukys/github-readme-stats)
  -->
- 
+
 
 <hr />
 
