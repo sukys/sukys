@@ -41,6 +41,11 @@
   <br/>
 </p>
 <br />
+
+#### Actually Studying: 
+   - Spring Security
+   - Cryptography
+
 <p>
   <a href="https://github.com/sukys/github-readme-stats" target="_blank">
     <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
@@ -50,7 +55,8 @@
   </a>
 </p>
 <hr />
-<p align="center">
+
+<p>
   <a href="http://hits.dwyl.com/sukys/sukys" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/sukys/sukys.svg" />
   </a>
