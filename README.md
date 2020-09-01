@@ -40,9 +40,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br/>
 </p>
-
 <br />
-
 
 #### Actually Studying: 
    - Spring Security
@@ -52,20 +50,15 @@
   <a href="https://github.com/sukys/github-readme-stats" target="_blank">
     <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
   </a>
-
   <a href="https://github.com/sukys/github-readme-stats" target="_blank" >
     <img align="right" alt="Status" src="https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </p>
-
 <br />
 <br />
-
 <hr />
-
 <br />
 <br />
-
 <p align="center">
   <a href="http://hits.dwyl.com/sukys/sukys" target="_blank">
     <img align="center" alt="HitCount" src="http://hits.dwyl.com/sukys/sukys.svg" />
