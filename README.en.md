@@ -13,8 +13,8 @@
 ## Luis Sukys
 
 <p>
-  Olá!
-  Bem vindo ao meu repositório pessoal!
+  Hi There!
+  Welcome to my Personal Repository!
 </p>
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/sukys/sukys/master/img/dragon1.jpeg" />
@@ -54,9 +54,9 @@
 </p>
 <br />
 
-#### Atualmente Estudando: 
-   - Segurança no Spring
-   - Criptografia
+#### Actually Studying: 
+   - Spring Security
+   - Cryptography
 
 <p>
   <a href="https://github.com/sukys/github-readme-stats" target="_blank">
