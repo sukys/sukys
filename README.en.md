@@ -1,4 +1,4 @@
-[Português](README.md) | [English](README.en.md)
+<!-- Português](README.md) | [English](README.en.md) -->
 
 <img align="right" alt="Visitors Count" src="https://visitor-badge.glitch.me/badge?page_id=sukys.sukys" />
 
