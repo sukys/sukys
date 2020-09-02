@@ -1,9 +1,9 @@
 <p align="right">
   <img align="right" alt="Visitors Count" src="https://visitor-badge.glitch.me/badge?page_id=sukys.sukys" />
-  <a href="README.en.md">
+  <a href="https://github.com/sukys/sukys/blob/master/README.en.md">
     <code><img width="20px" alt="Languages" src="https://cdn.countryflags.com/thumbs/brazil/flag-3d-round-250.png" /></code>
   </a>  
-  <a href="README.en.md">
+  <a href="https://github.com/sukys/sukys/blob/master/README.md">
     <code><img width="20px" alt="Languages" src="https://cdn.countryflags.com/thumbs/united-states-of-america/flag-3d-round-250.png" /></code>
   </a>  
 </p>
