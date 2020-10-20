@@ -51,11 +51,9 @@
    - Criptografia
 
 <p>
-  <a href="https://github.com/sukys/github-readme-stats" target="_blank">
-    <img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukys&theme=tokyonight" />
-  </a>
   <a href="https://github.com/sukys/github-readme-stats" target="_blank" >
     <img align="right" alt="Status" src="https://github-readme-stats.vercel.app/api?username=sukys&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </p>
-<hr />
+
+<br />
