@@ -46,9 +46,6 @@
 </p>
 <br />
 
-#### Atualmente Estudando: 
-   - Segurança no Spring
-   - Criptografia
 
 <p>
   <a href="https://github.com/sukys/github-readme-stats" target="_blank" >
